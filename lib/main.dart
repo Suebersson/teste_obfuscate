@@ -4,8 +4,10 @@ void main() {
   runApp(const MyApp());
 }
 //flutter build apk --obfuscate --split-debug-info=./androidAPKbuildingSymbols
+//flutter build apk --obfuscate --split-debug-info=./androidAPKbuildingSymbols --extra-gen-snapshot-options=--save-obfuscation-map=./androidAPKbuildingSymbols
 
-//androidBuildSymbols
+// flutter build apk --obfuscate --split-debug-info=./androidBuildSymbols --extra-gen-snapshot-options=--save-obfuscation-map=./androidBuildSymbols/symbols_map.json
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
