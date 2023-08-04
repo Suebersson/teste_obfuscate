@@ -8,6 +8,7 @@ void main() {
 
 // flutter build apk --obfuscate --split-debug-info=./android_build_symbols --extra-gen-snapshot-options=--save-obfuscation-map=./android_build_symbols/symbols_map.json
 
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
