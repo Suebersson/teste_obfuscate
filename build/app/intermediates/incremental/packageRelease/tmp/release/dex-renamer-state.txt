@@ -1,0 +1,4 @@
+#Fri Aug 04 12:30:07 BRT 2023
+base.0=C\:\\Users\\suebe\\OneDrive\\Desktop\\teste_obfuscate\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
